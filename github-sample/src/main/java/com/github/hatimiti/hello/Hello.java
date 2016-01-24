@@ -1,4 +1,4 @@
-package main.hatimiti.hello;
+package com.github.hatimiti.hello;
 
 public class Hello {
 
@@ -6,5 +6,5 @@ public class Hello {
 		System.out.println("Hello, GitHub!!");
 		// Edit on GitHub
 	}
-	
+
 }
